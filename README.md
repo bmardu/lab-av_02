@@ -1,26 +1,26 @@
-### lab-av_02
+# lab-av_02
 Códigos y archivos para la investigación de Laboratorio Avanzado 2
 
-#README.md
+### README.md
 Es este archivo con la documentación del repositorio
 
-# plots.ipynb
+### plots.ipynb
 En este archivo están todos los códigos para cada una de las gráficas realizadas
 
-# pixels\_wcs.ipynb
+### pixels\_wcs.ipynb
 En este archivo se encuentra un código para convertir del formato HH:MM:SS y DD:MM:SS las coordenadas RA y DEC respectivamente de la tabla shallow, utilizada como base del proyecto
 
-# reunion
+### reunion
 Notas de una de las reuniones realizada el 05/oct
 
-# tesis
+### tesis
 Capitulo 5 de la tesis de la profesora Mónica
 
-#token
+### token
 Token para poder subir los archivos al repositorio en github
 
-# Archivos viejos
-En esta carpeta están las tablas antiguas:
+### Archivos viejos
+En esta carpeta están las tablas antiguas: \n
 -original_cat.ascii: Es la tabla de una corrida de un cubo antes de ser corregida
 -original_cat.csv: Es la tabla de una corrida de un cubo antes de ser corregida
 -original_cat.xml: Es la tabla de una corrida de un cubo antes de ser corregida
