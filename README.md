@@ -20,7 +20,8 @@ Capitulo 5 de la tesis de la profesora Mónica
 Token para poder subir los archivos al repositorio en github
 
 ### Archivos viejos
-En esta carpeta están las tablas antiguas: \n
+En esta carpeta están las tablas antiguas:
+
 -original_cat.ascii: Es la tabla de una corrida de un cubo antes de ser corregida
 -original_cat.csv: Es la tabla de una corrida de un cubo antes de ser corregida
 -original_cat.xml: Es la tabla de una corrida de un cubo antes de ser corregida
