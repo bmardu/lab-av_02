@@ -96,7 +96,6 @@ Notas de una de las reuniones realizada el 05/oct
 ### token
 Token para poder subir los archivos al repositorio en github
 
-
 ## Carpeta Archivos viejos
 En esta carpeta están las tablas antiguas:
 
@@ -121,5 +120,8 @@ En esta carpeta están las tablas antiguas:
 
 -tabla\_sofia\_final.xlsx: En esta tabla se incluyen los mejores resultados sin repeticiones de la revisión completa en un archivo de formato .xlsx. Estos se escogieron utilizando el reliability como parámetro para elegir el "mejor dato".
 
--tabla\_sofia\_final_stats.csv: Es una tabla generada en TOPCAT con las estadísticas de ciertas columnas de la tabla\_sofia\_final\_
+-tabla\_sofia\_final_stats.csv: Es una tabla generada en TOPCAT con las estadísticas de ciertas columnas de la tabla\_sofia\_final
+
+## Carpeta Tablas cubos
+Posee las tablas de todas las detecciones realizadas por SoFiA y las coincidencias encontradas con TOPCAT
 
